@@ -8,7 +8,7 @@ Currently freelancing while studying, building real-world systems, and sharpenin
 
 **Currently working with**
 
-TypeScript · Node.js · Express · React · Next · MongoDB · REST APIs · Socket.io
+TypeScript · Node.js · Express · React.js · Next.js · PostgreSQL · MongoDB · Redis · Docker ·  REST APIs · Socket.io · BullMQ
 
 ---
 
